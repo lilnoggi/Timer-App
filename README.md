@@ -39,3 +39,17 @@ git clone https://github.com/YOUR_USERNAME/pookie-timer.git
 cd pookie-timer
 dotnet build
 dotnet maui run --device android
+
+## 📦 Build Info
+Framework: .NET MAUI
+
+Language: C#
+
+IDE: Visual Studio / VS Code
+
+## 💌 Credits
+Made by me, for my favorite person in the whole world 🥺💗
+You inspire me every day to work hard and love harder 💕
+
+## 🔒 License
+This app is for personal use only and is not licensed for distribution at this time.
